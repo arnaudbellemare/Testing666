@@ -1,0 +1,9 @@
+ccxt
+pandas
+numpy
+matplotlib
+scipy
+numba
+streamlit
+PyWavelets
+scikit-learn
